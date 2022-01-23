@@ -11,13 +11,13 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. Clone this repo. 
 
-1. Open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Rida----" with your name. 
+1. Open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. 
 
 1. Push your change to your remote repo. 
 
 1. Create a GitHub Page for your repo. 
 
-1. Add the link to your GitHub Page **ridasharief.github.io**. 
+1. Add the link to your GitHub Page **https://ds4200-s22.github.io/ic-01-ridasharief/**. 
 
 1. Push your change to your remote repo. 
 
